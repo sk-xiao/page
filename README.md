@@ -1,3 +1,10 @@
+# STA-141B Final Project:
+## Analysis of Happiness
+
+By Shan Jiang, Songkai Xiao, Jiahui Li.
+
+we recommend you to read our html-version report(- [Analysis of Happiness]()), since the github can't support interative plots well.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sk-xiao/songkai.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
