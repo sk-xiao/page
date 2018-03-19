@@ -3,7 +3,7 @@
 
 By Shan Jiang, Songkai Xiao, Jiahui Li.
 
-we recommend you to read our html-version report(- [Analysis of Happiness]()), since the github can't support interative plots well.
+we recommend you to read our html-version report([Analysis of Happiness](https://sk-xiao.github.io/page/141B-finall-3.html)), since the github can't support interative plots well.
 
 ## Welcome to GitHub Pages
 
